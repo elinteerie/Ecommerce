@@ -1,0 +1,21 @@
+.card-text.rember{
+
+    color: green;
+    font-weight: 800;
+}
+
+.card-title{
+    font-weight: 900;
+}
+
+
+.container.me{
+
+    align-items: center;
+    align-content: center;
+}
+
+.list-group-item{
+    font-weight: 900;
+
+}
